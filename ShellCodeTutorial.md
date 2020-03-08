@@ -60,6 +60,10 @@ _start:
    
    ![](img/Capture.JPG)
    
+   assamble code4
+   
+   
+   
    
    
    
