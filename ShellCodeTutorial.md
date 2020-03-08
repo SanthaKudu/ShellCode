@@ -12,15 +12,15 @@ Followings are the major memory segments and registers which plays important rol
   The text segment (Set of instructions (The actual code)).
   
   
-  The EAX register
+  >The EAX register
   
-  The EBX register
+  >The EBX register
   
-  The ECX register
+  >The ECX register
   
-  The EDX register
+  >The EDX register
   
-  The ESP register
+  >The ESP register
   
   
   Important Assembly Insrtuctions.
