@@ -76,6 +76,10 @@ _start:
    Solving the nullbyte Issue
    
    
+   >what is nullbyte
+   >why?
+   >how to fix that problem
+   
    
    
    
