@@ -58,7 +58,7 @@ _start:
    
    
    
-   ![](Capture.jpg)
+   ![](img/Capture.jpg)
    
    
    
