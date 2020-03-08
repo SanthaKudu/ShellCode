@@ -66,6 +66,15 @@ _start:
    
    ![](img/Capture2.JPG)
    
+   corresponding shell code fpr above assembly code.
+   
+   "\xb8\x0b\x00\x00\x00\x00\xbb\xa0\x90\x04\x08\xb9\x00\x00\x00\x00\x00\xcd\x80\xb8\x01\x00\x00\x00\xbb\x00\x00\x00\x00\xcd\x80"
+   
+   
+   ---------------------------------------------------------------------
+   
+   Solving the nullbyte Issue
+   
    
    
    
