@@ -58,7 +58,7 @@ _start:
    
    
    
-   ![](folder_name/image.jpg)
+   ![](Capture.jpg)
    
    
    
