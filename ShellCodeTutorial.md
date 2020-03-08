@@ -77,8 +77,11 @@ _start:
    
    
    >what is nullbyte
+   
    >why?
+   
    >how to fix that problem
+   
    
    
    
