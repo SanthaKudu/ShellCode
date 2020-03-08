@@ -60,7 +60,11 @@ _start:
    
    ![](img/Capture.JPG)
    
-   assamble code4
+   assamble code image
+   
+   lets extract the shell code
+   
+   ![](img/Capture2.JPG)
    
    
    
