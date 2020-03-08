@@ -37,6 +37,32 @@ Followings are the major memory segments and registers which plays important rol
    The system call is the fundamental interface between an application and the Linux kernel.{instratuctions that kernol can recognize}
    important they dont use stack.
    
+   we need a assemply code.
+   simple programe.
+   
+ section .data
+   msg db '/bin/sh';
+ 
+section .text
+  global _start;
+ 
+_start:
+  mov eax, 11 ;
+  mov ebx, msg;
+  mov ecx, 0;
+  int 0x80;
+ 
+  mov eax, 1;
+  mov ebx, 0; 
+  int 0x80; 
+   
+   
+   
+   ![](folder_name/image.jpg)
+   
+   
+   
+   
    
   
   
